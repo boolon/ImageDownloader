@@ -1,0 +1,13 @@
+This jupyter attends to download all the Magic The Gathering illustrations it can get from https://magicthegathering.io/, and all the Imaginary Network illustrations it can get from the https://reddit.com. These two database have a non-null intersection.
+
+Images are croped, downgraded and saved to account for the limitation in the Google Drive cloud in term of space and computation power.
+
+Main objectives is to use these pictures for GAN strategies. Here is a disorganized list of (sometimes) relevant paper for ulterior applications.
+
+https://arxiv.org/pdf/1812.04948.pdf
+https://arxiv.org/pdf/1704.00028.pdf
+https://arxiv.org/pdf/1912.04958.pdf
+https://arxiv.org/pdf/1602.05110.pdf
+https://arxiv.org/pdf/1610.09585.pdf
+https://arxiv.org/pdf/1708.05789.pdf
+https://arxiv.org/pdf/1611.04076.pdf
